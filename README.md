@@ -1,7 +1,7 @@
 ## Hi, I'm Petar 
 
-🔭 I’m currently working on Software Development and Machine Learning as well as AI.<br/>
-🌱 I’m currently learning how to honed my skills even more as a Graduate Computer Science Student from Middlesex University.<br/>
+🔭 I’m currently working on Software Development, Backend Develepment, Machine Learning, Deep Learning and Artificial Intelligence.<br/>
+🌱 I’m currently learning how to honed my skills even more as a Graduate Computer Scientist from Middlesex University.<br/>
 👯 I’m looking to collaborate on projects based on desktop app development, data science, game development, machine learning, AI.<br/>
 📫 How to reach me trough [My Website](https://petar-atanasov-portfolio.netlify.app/) and [LinkedIn](https://www.linkedin.com/in/petar-atanasov-4a551a27b/).<br/>
 
