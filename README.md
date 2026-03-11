@@ -2,7 +2,7 @@
 
 🔭 I’m currently working on Software Engineering, Backend Develepment, Machine Learning, Deep Learning and Artificial Intelligence.<br/>
 🌱 I’m currently learning how to honed my skills even more as a Graduate Computer Scientist from Middlesex University.<br/>
-👯 I’m looking to collaborate on projects based on desktop app development, data science, game development, machine learning, AI.<br/>
+👯 I’m looking to collaborate on projects based on desktop app development, data science, machine learning, AI.<br/>
 📫 How to reach me trough [My Website](https://petar-atanasov.netlify.app/) and [LinkedIn](https://www.linkedin.com/in/petar-atanasov-4a551a27b/).<br/>
 
 
